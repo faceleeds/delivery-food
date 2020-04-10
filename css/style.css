@@ -151,11 +151,11 @@ color: #302C34;
     margin-bottom: 30px;
     flex-basis: 30%;
     text-decoration: none;
-    transform: translate3d(0px, 0px, 0px);
+    transform: scale3d(1, 1, 1);
     transition: all 0.5s;
 }
 .card:hover{
-    transform: translate3d(20px, 20px, 50px);
+    transform: scale3d(1.1, 1.1, 1.1);
     -webkit-box-shadow: 2px 2px 24px 4px rgba(0,0,0,0.3);
     -moz-box-shadow: 2px 2px 24px 4px rgba(0,0,0,0.3);
     box-shadow: 2px 2px 24px 4px rgba(0,0,0,0.3);
