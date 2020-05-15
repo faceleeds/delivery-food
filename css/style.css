@@ -3,6 +3,7 @@
 }
 
 body{
+    background-color: #000;
     font-family: 'Roboto', sans-serif;
     /* отступ сверху для всей страницы вместо марджина для хедера */
     padding-top: 44px;
